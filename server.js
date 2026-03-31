@@ -21,7 +21,8 @@ app.get('/', (req, res) => {
       <li>
         <a href="/${p.id}/">
           <strong>${p.name}</strong><br>
-          <small>${p.description}</small>
+          <small>${p.description}</small><br>
+          <em style="color: #999; font-size: 0.85em;">Created: ${p.created} | Updated: ${p.updated}</em>
         </a>
       </li>
     `)

@@ -5,7 +5,9 @@
       "name": "Book to Audio",
       "description": "Convert manuscripts to audio with ElevenLabs",
       "port": 3000,
-      "enabled": true
+      "enabled": true,
+      "created": "2026-03-31",
+      "updated": "2026-03-31"
     }
   ]
 }
