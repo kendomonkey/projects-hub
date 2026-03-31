@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "id": "audio",
+      "name": "Book to Audio",
+      "description": "Convert manuscripts to audio with ElevenLabs",
+      "port": 3000,
+      "enabled": true
+    }
+  ]
+}
